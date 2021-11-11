@@ -1,3 +1,3 @@
 # SANDBOX PHP
 
-- just testing only
+- php 7.4.25
